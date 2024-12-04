@@ -110,7 +110,7 @@ export default function PortfolioForm({ onSubmit }: Props) {
 
       {/* GitHub Link */}
       <a
-        href="https://github.com/your-github-repo"
+        href="https://github.com/hyperboy107/portfolio-generator/tree/master"
         target="_blank"
         rel="noopener noreferrer"
         className="flex items-center gap-2 text-white hover:text-violet-500"
