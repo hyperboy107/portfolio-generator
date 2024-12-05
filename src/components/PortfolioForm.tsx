@@ -106,7 +106,7 @@ export default function PortfolioForm({ onSubmit }: Props) {
       <nav className="fixed top-0 left-0 w-full bg-gray-900 p-4 flex justify-between items-center shadow-lg z-50">
       {/* App Name */}
         <h1 className="text-xl font-bold text-[#a78bfa]">PortfolioForge</h1>
-        <h1 className="text-xl font-bold text-center text-[#a78bfa]"><span><a target='blank' href='https://resume-builder-hyper-k4j27ael6-hyperboys-projects.vercel.app/'>Build Your Resume</a></span></h1>
+        <h1 className="text-xl font-bold text-center text-[#a78bfa]"><span><a target='blank' href='https://resume-builder-hyper.vercel.app/'>Build Your Resume</a></span></h1>
 
       {/* GitHub Link */}
       <a
